@@ -1,0 +1,53 @@
+body{
+  font-family: "Arvo";
+  text-align: center;
+  background-color: #1c223af2;
+  color: white;
+
+}
+h1{
+  font-weight: bold;
+  font-size: 8.2rem;
+  margin: 3% 7% 7%;
+
+}
+footer{
+  font-size: 0.7rem;
+  margin-top: 7%;
+}
+button{
+  margin: 1%;
+  border-radius: 5%;
+  border-style: solid 4px;
+  border-color:  #1c023af2;
+  width: 8rem;
+  height: 8rem;
+  font-size: 3rem;
+}
+.drumm{
+  font-weight: bold;
+  color: #940944f2;
+
+}
+
+.w{
+  background-image: url("img/hi-hat.png");
+}
+.a{
+  background-image: url("img/left-tom.png");
+}
+.s{
+  background-image: url("img/snare.png");
+}
+.d{
+  background-image: url("img/kick.png");
+}
+.j{
+  background-image: url("img/floor-tom.png");
+}
+.k{
+  background-image: url("img/right-tom.png");
+}
+.l{
+  background-image: url("img/crash.png");
+}
